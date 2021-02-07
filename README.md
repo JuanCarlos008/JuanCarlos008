@@ -2,9 +2,7 @@
 
 ### Hola :wave:
 
-soy un chico de 23 años nacionalidad dominicana,soy un apacionado  
-de la tecnologia y por este motivo me he dedicado a estudiar de una forma  
-totalmente autodidacta enfocandome en lo que es el desarrollo **Front-End**.
+soy un chico de 23 años de nacionalidad dominicana, un apacionado de la tecnologia y por este motivo me he dedicado a estudiar de una forma totalmente autodidacta enfocandome en lo que es el desarrollo **Front-End**.
 
 ---
 
