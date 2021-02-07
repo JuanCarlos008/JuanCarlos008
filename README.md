@@ -1,6 +1,6 @@
 # Juan Carlos Hernández Sánchez
 
-### Hola 
+### Hola :hello
 
 soy un chico de 23 años nacionalidad dominicana,soy un apacionado  
 de la tecnologia y por este motivo me he dedicado a estudiar de una forma  
@@ -8,7 +8,7 @@ totalmente autodidacta enfocandome en lo que es el desarrollo web.
 
 ---
 
-### Skills
+## Skills
 
 * HTML
 * CSS
