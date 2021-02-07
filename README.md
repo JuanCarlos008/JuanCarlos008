@@ -21,5 +21,5 @@ totalmente autodidacta enfocandome en lo que es el desarrollo web.
 ---
 
 ## Contacto
-[Email](mailto:juan_carlos008@outlook.com)
-[Linkedin](https://www.linkedin.com/in/juan-carlos008)
+* [Email](mailto:juan_carlos008@outlook.com)
+* [Linkedin](https://www.linkedin.com/in/juan-carlos008)
