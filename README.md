@@ -13,7 +13,9 @@ soy un chico de 23 años de nacionalidad dominicana, apacionado de la tecnologia
 * SASS
 * JAVASCRIPT
 * REACT
-* MYSQL
+* NEXTJS
+* REDUX
+* EMOTION/STYLED
 * GIT
 
 ---
