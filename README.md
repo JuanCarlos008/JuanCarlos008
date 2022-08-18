@@ -2,7 +2,8 @@
 
 ### Hola :wave:
 
-soy un chico de 24 años de nacionalidad dominicana, apacionado de la tecnologia y por este motivo me he dedicado a estudiar de una forma totalmente autodidacta enfocandome en lo que es el desarrollo **Front-End**.
+En 2021 empecé mi carrera como desarrollador front-end en la empresa DUV Agency donde participo de todo lo relacionado con las UI dando sugerencias puntuales hasta el desarrollo
+de las mismas. **Front-End**.
 
 ---
 
