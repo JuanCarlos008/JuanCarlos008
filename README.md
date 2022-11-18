@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hey 👋! Soy Juan Carlos 👨🏻‍💻<br> 💻 Desarrollador Frontend
+¡Hey 👋! Soy Juan Carlos 👨🏻‍💻<br> 💻 Desarrollador Frontend con 2 años de experiencias
 
 
 ## 🌐 Redes:
