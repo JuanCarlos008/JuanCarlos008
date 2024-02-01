@@ -22,8 +22,8 @@ My focus is on technical excellence and delivering high-quality solutions that e
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="16" height="16" /> Astro Js
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="16" height="16" /> React Native
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="16" height="16" /> Sass
+- Other Technologies:
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="16" height="16" /> React Router
-- Other Technologies: 
   - SWR
   - Socket.io
   - styled-components
