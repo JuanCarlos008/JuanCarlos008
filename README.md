@@ -40,7 +40,7 @@ My focus is on technical excellence and delivering high-quality solutions that e
 
 ## 🏢Work Experience
 
-### Front-end Developer | [Current Company Name]
+### Front-end Developer | Ministry of Defence
 **2023 - Present**
 - Developed attractive and functional user interfaces for web applications using React and Next.js.
 - Collaborated closely with designers and back-end teams to ensure a cohesive user experience.
