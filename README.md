@@ -38,6 +38,7 @@ As a seasoned front-end developer, I excel in developing innovative and intuitiv
   - Co-designed UI/UX in Figma.
   - Co-development the platform using Next.js.
   - Integrating login and CMS functionalities with the backend.
+    
   ![Image](https://juancarlos008.github.io/Portafolio/assets/images/projects/project_2.png)
 
 - **PLD Website and CMS | November 2021**
@@ -45,6 +46,7 @@ As a seasoned front-end developer, I excel in developing innovative and intuitiv
   - Co-development the platform using Next.js.
   - Integrating login and CMS functionalities with the backend.
   - Optimization to position the platform among the top results in search engines.
+    
   ![Image](https://juancarlos008.github.io/Portafolio/assets/images/projects/project_7.png)
 
 ---
